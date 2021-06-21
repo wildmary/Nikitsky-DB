@@ -17,7 +17,7 @@ kuzma_children_932;kuzma_932;дети;relative
 sava_938;anon_938;должник;mentions
 bratan_938;anon_938;должник;mentions
 zhena_931;smen_931;жена;relative
-uljana;Еj_942;жена;relative
+uljana_942;Еj_942;жена;relative
 anon_938;bratan_938;заимодавец;mentions
 anon_938;sava_938;заимодавец;mentions
 vasilij_jesifovic;mihalko_937;знает;knows
@@ -38,7 +38,7 @@ stepan_949;jeremej_949;знает;knows
 parfej_948;ostafja_948;контрагент;mentions
 ostafja_948;parfej_948;контрагент;mentions
 smen_931;zhena_931;муж;relative
-Еj_942;uljana;муж;relative
+Еj_942;uljana_942;муж;relative
 ivan_933;ivan_lukinic;не исключена тождественность;same?
 ivan_lukinic;ivan_933;не исключена тождественность;same?
 ostafja_948;konstantin_932;отец;relative
@@ -63,7 +63,7 @@ jurij_937;mihalko_937;посылает;mentions
 parfej_948;oksentij_948;посылает;mentions
 zhena_931;smen_931;приказ;writes_to
 ivan_933;igumen_933;приказ;writes_to
-Еj_942;uljana;приказ;writes_to
+Еj_942;uljana_942;приказ;writes_to
 parfej_948;jeremej_948;приказ;writes_to
 konstantin_932;ostafja_932;сын;relative
 kuzma_932;silvan;сын;relative
