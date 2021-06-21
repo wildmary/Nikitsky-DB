@@ -1,0 +1,81 @@
+Source,Target,Relation,Class
+ondrejan_zaharjinic,jesif_zaharjinic,брат,relative
+afanasij_jesifovic,vasilij_jesifovic,брат,relative
+vasilij_jesifovic,afanasij_jesifovic,брат,relative
+jesif_zaharjinic,ondrejan_zaharjinic,брат,relative
+samson_932,samson_ivanovic,высоковероятна тождественность,same?
+samson_ivanovic,samson_932,высоковероятна тождественность,same?
+ostafja_948,ostafja_932,высоковероятна тождественность,same?
+ostafja_932,ostafja_948,высоковероятна тождественность,same?
+smen_949,smen_931,высоковероятна тождественность,same?
+smen_931,smen_949,высоковероятна тождественность,same?
+vasilij_937,vasilij_jesifovic,высоковероятна тождественность,same?
+vasilij_jesifovic,vasilij_937,высоковероятна тождественность,same?
+jeremej_948,jeremej_949,высоковероятна тождественность,same?
+jeremej_949,jeremej_948,высоковероятна тождественность,same?
+kuzma_children_932,kuzma_932,дети,relative
+sava_938,anon_938,должник,mentions
+bratan_938,anon_938,должник,mentions
+zhena_931,smen_931,жена,relative
+uljana_942,…j_942,жена,relative
+anon_938,bratan_938,заимодавец,mentions
+anon_938,sava_938,заимодавец,mentions
+vasilij_jesifovic,mihalko_937,знает,knows
+jeremej_948,oksentij_948,знает,knows
+jeremej_948,ostafja_948,знает,knows
+smen_949,jakov_949,знает,knows
+smen_949,jeremej_949,знает,knows
+smen_949,stepan_949,знает,knows
+jakov_949,jeremej_949,знает,knows
+jakov_949,stepan_949,знает,knows
+jeremej_949,stepan_949,знает,knows
+jakov_949,smen_949,знает,knows
+jeremej_949,smen_949,знает,knows
+stepan_949,smen_949,знает,knows
+jeremej_949,jakov_949,знает,knows
+stepan_949,jakov_949,знает,knows
+stepan_949,jeremej_949,знает,knows
+parfej_948,ostafja_948,контрагент,mentions
+ostafja_948,parfej_948,контрагент,mentions
+smen_931,zhena_931,муж,relative
+…j_942,uljana_942,муж,relative
+ivan_933,ivan_lukinic,не исключена тождественность,same?
+ivan_lukinic,ivan_933,не исключена тождественность,same?
+ostafja_948,konstantin_932,отец,relative
+silvan,kuzma_932,отец,relative
+kuzma_932,kuzma_children_932,отец,relative
+jesif_zaharjinic,vasilij_jesifovic,отец,relative
+zaharja_mihajlovic,jesif_zaharjinic,отец,relative
+zaharja_mihajlovic,ondrejan_zaharjinic,отец,relative
+mihail_pavshinic,zaharja_mihajlovic,отец,relative
+pavsha_onanjic,mihail_pavshinic,отец,relative
+jesif_zaharjinic,afanasij_jesifovic,отец,relative
+luka,ivan_lukinic,отец,relative
+onanja,pavsha_onanjic,отец,relative
+jurij_937,vasilij_937,письмо,writes_to
+petr_949,smen_949,поклон,writes_to
+petr_949,jakov_949,поклон,writes_to
+petr_949,jeremej_949,поклон,writes_to
+petr_949,stepan_949,поклон,writes_to
+mihalko_937,vasilij_jesifovic,послан к,knows
+oksentij_948,ostafja_948,послан к,mentions
+jurij_937,mihalko_937,посылает,mentions
+parfej_948,oksentij_948,посылает,mentions
+zhena_931,smen_931,приказ,writes_to
+ivan_933,igumen_933,приказ,writes_to
+…j_942,uljana_942,приказ,writes_to
+parfej_948,jeremej_948,приказ,writes_to
+konstantin_932,ostafja_932,сын,relative
+kuzma_932,silvan,сын,relative
+ivan_lukinic,luka,сын,relative
+vasilij_jesifovic,jesif_zaharjinic,сын,relative
+afanasij_jesifovic,jesif_zaharjinic,сын,relative
+jesif_zaharjinic,zaharja_mihajlovic,сын,relative
+ondrejan_zaharjinic,zaharja_mihajlovic,сын,relative
+zaharja_mihajlovic,mihail_pavshinic,сын,relative
+mihail_pavshinic,pavsha_onanjic,сын,relative
+pavsha_onanjic,onanja,сын,relative
+anon_932,samson_932,упоминает,mentions
+anon_932,kuzma_932,упоминает,mentions
+anon_932,kuzma_children_932,упоминает,mentions
+anon_932,konstantin_932,упоминает,mentions
