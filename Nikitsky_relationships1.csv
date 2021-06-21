@@ -1,0 +1,81 @@
+Target;Relation;Class
+jesif_zaharjinic;брат;relative
+vasilij_jesifovic;брат;relative
+afanasij_jesifovic;брат;relative
+ondrejan_zaharjinic;брат;relative
+samson_ivanovic;высоковероятна тождественность;same?
+samson_932;высоковероятна тождественность;same?
+ostafja_932;высоковероятна тождественность;same?
+ostafja_948;высоковероятна тождественность;same?
+smen_931;высоковероятна тождественность;same?
+smen_949;высоковероятна тождественность;same?
+vasilij_jesifovic;высоковероятна тождественность;same?
+vasilij_937;высоковероятна тождественность;same?
+jeremej_949;высоковероятна тождественность;same?
+jeremej_948;высоковероятна тождественность;same?
+kuzma_932;дети;relative
+anon_938;должник;mentions
+anon_938;должник;mentions
+smen_931;жена;relative
+…j_942;жена;relative
+bratan_938;заимодавец;mentions
+sava_938;заимодавец;mentions
+mihalko_937;знает;knows
+oksentij_948;знает;knows
+ostafja_948;знает;knows
+jakov_949;знает;knows
+jeremej_949;знает;knows
+stepan_949;знает;knows
+jeremej_949;знает;knows
+stepan_949;знает;knows
+stepan_949;знает;knows
+smen_949;знает;knows
+smen_949;знает;knows
+smen_949;знает;knows
+jakov_949;знает;knows
+jakov_949;знает;knows
+jeremej_949;знает;knows
+ostafja_948;контрагент;mentions
+parfej_948;контрагент;mentions
+zhena_931;муж;relative
+uljana_942;муж;relative
+ivan_lukinic;не исключена тождественность;same?
+ivan_933;не исключена тождественность;same?
+konstantin_932;отец;relative
+kuzma_932;отец;relative
+kuzma_children_932;отец;relative
+vasilij_jesifovic;отец;relative
+jesif_zaharjinic;отец;relative
+ondrejan_zaharjinic;отец;relative
+zaharja_mihajlovic;отец;relative
+mihail_pavshinic;отец;relative
+afanasij_jesifovic;отец;relative
+ivan_lukinic;отец;relative
+pavsha_onanjic;отец;relative
+vasilij_937;письмо;writes_to
+smen_949;поклон;writes_to
+jakov_949;поклон;writes_to
+jeremej_949;поклон;writes_to
+stepan_949;поклон;writes_to
+vasilij_jesifovic;послан к;knows
+ostafja_948;послан к;mentions
+mihalko_937;посылает;mentions
+oksentij_948;посылает;mentions
+smen_931;приказ;writes_to
+igumen_933;приказ;writes_to
+uljana_942;приказ;writes_to
+jeremej_948;приказ;writes_to
+ostafja_932;сын;relative
+silvan;сын;relative
+luka;сын;relative
+jesif_zaharjinic;сын;relative
+jesif_zaharjinic;сын;relative
+zaharja_mihajlovic;сын;relative
+zaharja_mihajlovic;сын;relative
+mihail_pavshinic;сын;relative
+pavsha_onanjic;сын;relative
+onanja;сын;relative
+samson_932;упоминает;mentions
+kuzma_932;упоминает;mentions
+kuzma_children_932;упоминает;mentions
+konstantin_932;упоминает;mentions
